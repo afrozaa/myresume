@@ -40,7 +40,7 @@ class SkillsPage extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
-                    color: Colors.black,
+                    color: Colors.deepPurple,
                   ),
                 ),
                 Container(height: 10),
