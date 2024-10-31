@@ -1,16 +1,12 @@
-# myresume
+# Afroza Sultana's Resume App
 
-A new Flutter project.
+This is a Flutter application that serves as a digital resume for **Afroza Sultana**. It showcases personal information, skills, education, and work experience, providing a user-friendly interface for easy navigation.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Personal Info**: Displays personal details, including education and contact information.
+- **Skills**: Highlights technical skills and proficiencies.
+- **Education**: Lists academic qualifications.
+- **Experience**: Outlines work experience and internships.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Youtube Link:
