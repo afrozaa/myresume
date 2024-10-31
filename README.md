@@ -1,4 +1,4 @@
-# Afroza Sultana's Resume App
+# My Resume App
 
 This is a Flutter application that serves as a digital resume for **Afroza Sultana**. It showcases personal information, skills, education, and work experience, providing a user-friendly interface for easy navigation.
 
