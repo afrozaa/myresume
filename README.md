@@ -9,4 +9,4 @@ This is a Flutter application that serves as a digital resume for **Afroza Sulta
 - **Education**: Lists academic qualifications.
 - **Experience**: Outlines work experience and internships.
 
-## Youtube Link:
+## Youtube Link: https://youtu.be/UK_YUbHJ_Hw
