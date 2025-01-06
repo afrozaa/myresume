@@ -9,7 +9,7 @@ This is a Flutter application that serves as a digital resume for **Afroza Sulta
 - **Education**: Lists academic qualifications.
 - **Experience**: Outlines work experience and internships.
 
-**Project Screenshots are available in images folder.**
+**Project Screenshots:**
 ![image](https://github.com/user-attachments/assets/f1324734-a701-48c7-9ddb-c6230467c5c7)
 
 ![image](https://github.com/user-attachments/assets/9154b526-648e-454b-ae4a-fd648c94d0ff)
